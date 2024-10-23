@@ -4,6 +4,8 @@
 ## This plugin DOES require using the official [Witty Pi 4 Software](https://github.com/uugear/Witty-Pi-4) install. 
 ## YOU MUST INCREASE THE WITTY'S POWER CUT DELAY TO ATLEAST 15 SECONDS TO ENSURE PROPER INTEGRATED SHUTDOWN
 
+# Case fits with any Waveshare and uses zipties to secure
+
 ## Install guide:
 
 ```bash
