@@ -1,4 +1,4 @@
-# Plugin to use with Pwnagotchi and the WittyPi4L3V7 hat.
+# Plugin to use with Pwnagotchi and the WittyPi4L3V7 hat for battery and shutdown.
 # Battery Curves and case are for a 500mAh battery, https://www.adafruit.com/product/1578
 
 ## This plugin DOES require using the official [Witty Pi 4 Software](https://github.com/uugear/Witty-Pi-4) install. 
