@@ -37,8 +37,9 @@ main.custom_plugins = "/usr/local/share/pwnagotchi/installed-plugins/"
 main.plugins.wittypi4l3v7.enabled = true
 ```
 
-
+Hold button to shutdown, if it shuts down before the green light turns off for a few seconds then increase the sleep function time in the do_shutdown function in utilities.sh
 
 WittyPi4L3V7 web settings are accessible at http://10.0.0.2:8000/wittypi4/
 
 Huge thanks to the pwnagotchi pisugar2 plugin for providing me with a starting point for my plugin
+
